@@ -34,7 +34,12 @@
       "waarde" : "Verslag (Webcast) - Implementatie van de Vlaamse Codex - 27-11-2018.pdf"
     }
   ],
-  "presentaties": [],
+  "presentaties": [
+    {
+      "naam": "Presentatie Inspiratienamiddag OSLO (Vlaamse Codex luik) - 19 februari 2019",
+      "waarde": "Inspiratienamiddag 19 Feb 2019.pptx"
+    }
+  ],
   "functioneel_toepassingsgebied": "Semantische standaard voor het ontsluiten van (geconsolideerde) regelgevende documenten.",
   "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid en in het bijzonder de Vlaamse Codex",
   "datum_van_aanmelding": "10 April 2018",
